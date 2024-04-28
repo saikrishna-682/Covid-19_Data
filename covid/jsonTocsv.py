@@ -1,8 +1,5 @@
 import os.path
-import time
 import pandas as pd
-import json
-import csv
 
 file_path = "/Users/saikrishnasomavarapu/Documents/pycharm-projects/Covid-19/province_data/"
 file_dir = os.listdir(file_path)
