@@ -1,0 +1,176 @@
+[
+ {
+  "city": "Ukraine",
+  "province": "",
+  "lat": "48.3794",
+  "long": "31.1656"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Cherkasy Oblast",
+  "lat": "49.4444",
+  "long": "32.0598"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Chernihiv Oblast",
+  "lat": "51.4982",
+  "long": "31.2893"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Chernivtsi Oblast",
+  "lat": "48.2917",
+  "long": "25.9352"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Crimea Republic*",
+  "lat": "45.2835",
+  "long": "34.2008"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Dnipropetrovsk Oblast",
+  "lat": "48.4647",
+  "long": "35.0462"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Donetsk Oblast",
+  "lat": "48.0159",
+  "long": "37.8028"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Ivano-Frankivsk Oblast",
+  "lat": "48.9226",
+  "long": "24.7111"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Kharkiv Oblast",
+  "lat": "49.9935",
+  "long": "36.2304"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Kherson Oblast",
+  "lat": "46.6354",
+  "long": "32.6169"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Khmelnytskyi Oblast",
+  "lat": "49.423",
+  "long": "26.9871"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Kiev",
+  "lat": "50.4501",
+  "long": "30.5234"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Kiev Oblast",
+  "lat": "50.053000000000004",
+  "long": "30.7667"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Kirovohrad Oblast",
+  "lat": "48.5079",
+  "long": "32.2623"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Luhansk Oblast",
+  "lat": "48.574",
+  "long": "39.3078"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Lviv Oblast",
+  "lat": "49.8397",
+  "long": "24.0297"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Mykolaiv Oblast",
+  "lat": "46.975",
+  "long": "31.9946"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Odessa Oblast",
+  "lat": "46.4846",
+  "long": "30.7326"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Poltava Oblast",
+  "lat": "49.5883",
+  "long": "34.5514"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Rivne Oblast",
+  "lat": "50.6199",
+  "long": "26.2516"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Sevastopol*",
+  "lat": "44.6054",
+  "long": "33.522"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Sumy Oblast",
+  "lat": "50.9077",
+  "long": "34.7981"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Ternopil Oblast",
+  "lat": "49.5535",
+  "long": "25.5948"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Unknown",
+  "lat": null,
+  "long": null
+ },
+ {
+  "city": "Ukraine",
+  "province": "Vinnytsia Oblast",
+  "lat": "49.2331",
+  "long": "28.4682"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Volyn Oblast",
+  "lat": "50.7472",
+  "long": "25.3254"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Zakarpattia Oblast",
+  "lat": "48.6208",
+  "long": "22.2879"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Zaporizhia Oblast",
+  "lat": "47.8388",
+  "long": "35.1396"
+ },
+ {
+  "city": "Ukraine",
+  "province": "Zhytomyr Oblast",
+  "lat": "50.2547",
+  "long": "28.6587"
+ }
+]

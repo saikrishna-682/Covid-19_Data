@@ -1,0 +1,23 @@
+city,province,lat,long
+Canada," Montreal, QC",45.5017,-73.5673
+Canada,Alberta,53.9333,-116.5765
+Canada,British Columbia,53.7267,-127.6476
+Canada,"Calgary, Alberta",51.0447,-114.0719
+Canada,Diamond Princess,0.0,0.0
+Canada,"Edmonton, Alberta",53.5461,-113.4938
+Canada,Grand Princess,37.6489,-122.6655
+Canada,"London, ON",42.9849,-81.2453
+Canada,Manitoba,53.7609,-98.8139
+Canada,New Brunswick,46.5653,-66.4619
+Canada,Newfoundland and Labrador,53.1355,-57.6604
+Canada,Northwest Territories,64.8255,-124.8457
+Canada,Nova Scotia,44.682,-63.7443
+Canada,Nunavut,70.2998,-83.1076
+Canada,Ontario,51.2538,-85.3232
+Canada,Prince Edward Island,46.5107,-63.4168
+Canada,Quebec,52.9399,-73.5491
+Canada,Recovered,0.0,0.0
+Canada,Repatriated Travellers,,
+Canada,Saskatchewan,52.9399,-106.4509
+Canada,"Toronto, ON",43.6532,-79.3832
+Canada,Yukon,64.2823,-135.0

@@ -1,0 +1,50 @@
+[
+ {
+  "city": "Pakistan",
+  "province": "",
+  "lat": "30.3753",
+  "long": "69.3451"
+ },
+ {
+  "city": "Pakistan",
+  "province": "Azad Jammu and Kashmir",
+  "lat": "34.027401",
+  "long": "73.947253"
+ },
+ {
+  "city": "Pakistan",
+  "province": "Balochistan",
+  "lat": "28.328491999999997",
+  "long": "65.898403"
+ },
+ {
+  "city": "Pakistan",
+  "province": "Gilgit-Baltistan",
+  "lat": "35.792146",
+  "long": "74.982138"
+ },
+ {
+  "city": "Pakistan",
+  "province": "Islamabad",
+  "lat": "33.665087",
+  "long": "73.121219"
+ },
+ {
+  "city": "Pakistan",
+  "province": "Khyber Pakhtunkhwa",
+  "lat": "34.485332",
+  "long": "72.09169"
+ },
+ {
+  "city": "Pakistan",
+  "province": "Punjab",
+  "lat": "30.811346",
+  "long": "72.13913199999998"
+ },
+ {
+  "city": "Pakistan",
+  "province": "Sindh",
+  "lat": "26.009446",
+  "long": "68.77680699999999"
+ }
+]

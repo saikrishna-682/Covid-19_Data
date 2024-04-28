@@ -1,0 +1,302 @@
+[
+ {
+  "city": "Japan",
+  "province": "",
+  "lat": "36.2048",
+  "long": "138.2529"
+ },
+ {
+  "city": "Japan",
+  "province": "Aichi",
+  "lat": "35.035551",
+  "long": "137.211621"
+ },
+ {
+  "city": "Japan",
+  "province": "Akita",
+  "lat": "39.748678999999996",
+  "long": "140.408228"
+ },
+ {
+  "city": "Japan",
+  "province": "Aomori",
+  "lat": "40.781541",
+  "long": "140.828896"
+ },
+ {
+  "city": "Japan",
+  "province": "Chiba",
+  "lat": "35.510141",
+  "long": "140.198917"
+ },
+ {
+  "city": "Japan",
+  "province": "Ehime",
+  "lat": "33.624835",
+  "long": "132.856842"
+ },
+ {
+  "city": "Japan",
+  "province": "Fukui",
+  "lat": "35.846614",
+  "long": "136.22465400000002"
+ },
+ {
+  "city": "Japan",
+  "province": "Fukuoka",
+  "lat": "33.526032",
+  "long": "130.666949"
+ },
+ {
+  "city": "Japan",
+  "province": "Fukushima",
+  "lat": "37.378867",
+  "long": "140.223295"
+ },
+ {
+  "city": "Japan",
+  "province": "Gifu",
+  "lat": "35.778671",
+  "long": "137.055925"
+ },
+ {
+  "city": "Japan",
+  "province": "Gunma",
+  "lat": "36.504478999999996",
+  "long": "138.985605"
+ },
+ {
+  "city": "Japan",
+  "province": "Hiroshima",
+  "lat": "34.605309000000005",
+  "long": "132.788719"
+ },
+ {
+  "city": "Japan",
+  "province": "Hokkaido",
+  "lat": "43.385711",
+  "long": "142.55231799999999"
+ },
+ {
+  "city": "Japan",
+  "province": "Hyogo",
+  "lat": "35.039913",
+  "long": "134.828057"
+ },
+ {
+  "city": "Japan",
+  "province": "Ibaraki",
+  "lat": "36.303588",
+  "long": "140.319591"
+ },
+ {
+  "city": "Japan",
+  "province": "Ishikawa",
+  "lat": "36.769464",
+  "long": "136.771027"
+ },
+ {
+  "city": "Japan",
+  "province": "Iwate",
+  "lat": "39.593287",
+  "long": "141.361777"
+ },
+ {
+  "city": "Japan",
+  "province": "Kagawa",
+  "lat": "34.217292",
+  "long": "133.969047"
+ },
+ {
+  "city": "Japan",
+  "province": "Kagoshima",
+  "lat": "31.009484000000004",
+  "long": "130.430665"
+ },
+ {
+  "city": "Japan",
+  "province": "Kanagawa",
+  "lat": "35.415312",
+  "long": "139.338983"
+ },
+ {
+  "city": "Japan",
+  "province": "Kochi",
+  "lat": "33.422519",
+  "long": "133.367307"
+ },
+ {
+  "city": "Japan",
+  "province": "Kumamoto",
+  "lat": "32.608154",
+  "long": "130.74523100000002"
+ },
+ {
+  "city": "Japan",
+  "province": "Kyoto",
+  "lat": "35.253815",
+  "long": "135.443341"
+ },
+ {
+  "city": "Japan",
+  "province": "Mie",
+  "lat": "34.508018",
+  "long": "136.376013"
+ },
+ {
+  "city": "Japan",
+  "province": "Miyagi",
+  "lat": "38.446859",
+  "long": "140.927086"
+ },
+ {
+  "city": "Japan",
+  "province": "Miyazaki",
+  "lat": "32.193203999999994",
+  "long": "131.299374"
+ },
+ {
+  "city": "Japan",
+  "province": "Nagano",
+  "lat": "36.132134",
+  "long": "138.045528"
+ },
+ {
+  "city": "Japan",
+  "province": "Nagasaki",
+  "lat": "33.235712",
+  "long": "129.608033"
+ },
+ {
+  "city": "Japan",
+  "province": "Nara",
+  "lat": "34.317451",
+  "long": "135.871644"
+ },
+ {
+  "city": "Japan",
+  "province": "Niigata",
+  "lat": "37.521819",
+  "long": "138.918647"
+ },
+ {
+  "city": "Japan",
+  "province": "Oita",
+  "lat": "33.200697",
+  "long": "131.43323999999998"
+ },
+ {
+  "city": "Japan",
+  "province": "Okayama",
+  "lat": "34.89246",
+  "long": "133.826252"
+ },
+ {
+  "city": "Japan",
+  "province": "Okinawa",
+  "lat": "25.768923",
+  "long": "126.668016"
+ },
+ {
+  "city": "Japan",
+  "province": "Osaka",
+  "lat": "34.620965000000005",
+  "long": "135.507481"
+ },
+ {
+  "city": "Japan",
+  "province": "Port Quarantine",
+  "lat": null,
+  "long": null
+ },
+ {
+  "city": "Japan",
+  "province": "Saga",
+  "lat": "33.286977",
+  "long": "130.115738"
+ },
+ {
+  "city": "Japan",
+  "province": "Saitama",
+  "lat": "35.997101",
+  "long": "139.347635"
+ },
+ {
+  "city": "Japan",
+  "province": "Shiga",
+  "lat": "35.21582700000001",
+  "long": "136.13806399999999"
+ },
+ {
+  "city": "Japan",
+  "province": "Shimane",
+  "lat": "35.07076",
+  "long": "132.55406399999998"
+ },
+ {
+  "city": "Japan",
+  "province": "Shizuoka",
+  "lat": "34.916975",
+  "long": "138.40778400000002"
+ },
+ {
+  "city": "Japan",
+  "province": "Tochigi",
+  "lat": "36.689912",
+  "long": "139.819213"
+ },
+ {
+  "city": "Japan",
+  "province": "Tokushima",
+  "lat": "33.919178",
+  "long": "134.242091"
+ },
+ {
+  "city": "Japan",
+  "province": "Tokyo",
+  "lat": "35.711343",
+  "long": "139.446921"
+ },
+ {
+  "city": "Japan",
+  "province": "Tottori",
+  "lat": "35.359069",
+  "long": "133.863619"
+ },
+ {
+  "city": "Japan",
+  "province": "Toyama",
+  "lat": "36.637464",
+  "long": "137.26934599999998"
+ },
+ {
+  "city": "Japan",
+  "province": "Unknown",
+  "lat": null,
+  "long": null
+ },
+ {
+  "city": "Japan",
+  "province": "Wakayama",
+  "lat": "33.911879",
+  "long": "135.505446"
+ },
+ {
+  "city": "Japan",
+  "province": "Yamagata",
+  "lat": "38.448396",
+  "long": "140.102154"
+ },
+ {
+  "city": "Japan",
+  "province": "Yamaguchi",
+  "lat": "34.201190000000004",
+  "long": "131.573293"
+ },
+ {
+  "city": "Japan",
+  "province": "Yamanashi",
+  "lat": "35.612364",
+  "long": "138.61148899999998"
+ }
+]

@@ -1,0 +1,206 @@
+[
+ {
+  "city": "Mexico",
+  "province": "",
+  "lat": "23.6345",
+  "long": "-102.5528"
+ },
+ {
+  "city": "Mexico",
+  "province": "Aguascalientes",
+  "lat": "21.8853",
+  "long": "-102.2916"
+ },
+ {
+  "city": "Mexico",
+  "province": "Baja California",
+  "lat": "30.8406",
+  "long": "-115.2838"
+ },
+ {
+  "city": "Mexico",
+  "province": "Baja California Sur",
+  "lat": "26.0444",
+  "long": "-111.6661"
+ },
+ {
+  "city": "Mexico",
+  "province": "Campeche",
+  "lat": "19.8301",
+  "long": "-90.5349"
+ },
+ {
+  "city": "Mexico",
+  "province": "Chiapas",
+  "lat": "16.7569",
+  "long": "-93.1292"
+ },
+ {
+  "city": "Mexico",
+  "province": "Chihuahua",
+  "lat": "28.63300000000001",
+  "long": "-106.0691"
+ },
+ {
+  "city": "Mexico",
+  "province": "Ciudad de Mexico",
+  "lat": "19.4326",
+  "long": "-99.1332"
+ },
+ {
+  "city": "Mexico",
+  "province": "Coahuila",
+  "lat": "27.0587",
+  "long": "-101.7068"
+ },
+ {
+  "city": "Mexico",
+  "province": "Colima",
+  "lat": "19.1223",
+  "long": "-104.0072"
+ },
+ {
+  "city": "Mexico",
+  "province": "Durango",
+  "lat": "24.5593",
+  "long": "-104.6588"
+ },
+ {
+  "city": "Mexico",
+  "province": "Guanajuato",
+  "lat": "21.019000000000002",
+  "long": "-101.2574"
+ },
+ {
+  "city": "Mexico",
+  "province": "Guerrero",
+  "lat": "17.4392",
+  "long": "-99.5451"
+ },
+ {
+  "city": "Mexico",
+  "province": "Hidalgo",
+  "lat": "20.0911",
+  "long": "-98.7624"
+ },
+ {
+  "city": "Mexico",
+  "province": "Jalisco",
+  "lat": "20.6595",
+  "long": "-103.3494"
+ },
+ {
+  "city": "Mexico",
+  "province": "Mexico",
+  "lat": "19.4969",
+  "long": "-99.7233"
+ },
+ {
+  "city": "Mexico",
+  "province": "Michoacan",
+  "lat": "19.5665",
+  "long": "-101.7068"
+ },
+ {
+  "city": "Mexico",
+  "province": "Morelos",
+  "lat": "18.6813",
+  "long": "-99.1013"
+ },
+ {
+  "city": "Mexico",
+  "province": "Nayarit",
+  "lat": "21.7514",
+  "long": "-104.8455"
+ },
+ {
+  "city": "Mexico",
+  "province": "Nuevo Leon",
+  "lat": "25.5922",
+  "long": "-99.9962"
+ },
+ {
+  "city": "Mexico",
+  "province": "Oaxaca",
+  "lat": "17.0732",
+  "long": "-96.7266"
+ },
+ {
+  "city": "Mexico",
+  "province": "Puebla",
+  "lat": "19.0414",
+  "long": "-98.2063"
+ },
+ {
+  "city": "Mexico",
+  "province": "Queretaro",
+  "lat": "20.5888",
+  "long": "-100.3899"
+ },
+ {
+  "city": "Mexico",
+  "province": "Quintana Roo",
+  "lat": "19.1817",
+  "long": "-88.4791"
+ },
+ {
+  "city": "Mexico",
+  "province": "San Luis Potosi",
+  "lat": "22.1565",
+  "long": "-100.9855"
+ },
+ {
+  "city": "Mexico",
+  "province": "Sinaloa",
+  "lat": "25.1721",
+  "long": "-107.4795"
+ },
+ {
+  "city": "Mexico",
+  "province": "Sonora",
+  "lat": "29.2972",
+  "long": "-110.3309"
+ },
+ {
+  "city": "Mexico",
+  "province": "Tabasco",
+  "lat": "17.8409",
+  "long": "-92.6189"
+ },
+ {
+  "city": "Mexico",
+  "province": "Tamaulipas",
+  "lat": "24.2669",
+  "long": "-98.8363"
+ },
+ {
+  "city": "Mexico",
+  "province": "Tlaxcala",
+  "lat": "19.3139",
+  "long": "-98.2404"
+ },
+ {
+  "city": "Mexico",
+  "province": "Unknown",
+  "lat": null,
+  "long": null
+ },
+ {
+  "city": "Mexico",
+  "province": "Veracruz",
+  "lat": "19.1738",
+  "long": "-96.1342"
+ },
+ {
+  "city": "Mexico",
+  "province": "Yucatan",
+  "lat": "20.7099",
+  "long": "-89.0943"
+ },
+ {
+  "city": "Mexico",
+  "province": "Zacatecas",
+  "lat": "22.7709",
+  "long": "-102.5832"
+ }
+]

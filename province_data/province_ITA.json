@@ -1,0 +1,134 @@
+[
+ {
+  "city": "Italy",
+  "province": "",
+  "lat": "41.8719",
+  "long": "12.5674"
+ },
+ {
+  "city": "Italy",
+  "province": "Abruzzo",
+  "lat": "42.35122196",
+  "long": "13.39843823"
+ },
+ {
+  "city": "Italy",
+  "province": "Basilicata",
+  "lat": "40.63947052",
+  "long": "15.80514834"
+ },
+ {
+  "city": "Italy",
+  "province": "Calabria",
+  "lat": "38.90597598",
+  "long": "16.59440194"
+ },
+ {
+  "city": "Italy",
+  "province": "Campania",
+  "lat": "40.83956555",
+  "long": "14.25084984"
+ },
+ {
+  "city": "Italy",
+  "province": "Emilia-Romagna",
+  "lat": "44.49436681",
+  "long": "11.341720800000001"
+ },
+ {
+  "city": "Italy",
+  "province": "Friuli Venezia Giulia",
+  "lat": "45.6494354",
+  "long": "13.76813649"
+ },
+ {
+  "city": "Italy",
+  "province": "Lazio",
+  "lat": "41.89277044",
+  "long": "12.48366722"
+ },
+ {
+  "city": "Italy",
+  "province": "Liguria",
+  "lat": "44.41149315",
+  "long": "8.9326992"
+ },
+ {
+  "city": "Italy",
+  "province": "Lombardia",
+  "lat": "45.46679409",
+  "long": "9.190347404"
+ },
+ {
+  "city": "Italy",
+  "province": "Marche",
+  "lat": "43.61675973",
+  "long": "13.5188753"
+ },
+ {
+  "city": "Italy",
+  "province": "Molise",
+  "lat": "41.55774754",
+  "long": "14.65916051"
+ },
+ {
+  "city": "Italy",
+  "province": "P.A. Bolzano",
+  "lat": "46.49933453",
+  "long": "11.35662422"
+ },
+ {
+  "city": "Italy",
+  "province": "P.A. Trento",
+  "lat": "46.06893511",
+  "long": "11.12123097"
+ },
+ {
+  "city": "Italy",
+  "province": "Piemonte",
+  "lat": "45.0732745",
+  "long": "7.680687483"
+ },
+ {
+  "city": "Italy",
+  "province": "Puglia",
+  "lat": "41.12559576",
+  "long": "16.86736689"
+ },
+ {
+  "city": "Italy",
+  "province": "Sardegna",
+  "lat": "39.21531192",
+  "long": "9.110616306"
+ },
+ {
+  "city": "Italy",
+  "province": "Sicilia",
+  "lat": "38.11569725",
+  "long": "13.362356699999998"
+ },
+ {
+  "city": "Italy",
+  "province": "Toscana",
+  "lat": "43.76923077",
+  "long": "11.25588885"
+ },
+ {
+  "city": "Italy",
+  "province": "Umbria",
+  "lat": "43.10675841",
+  "long": "12.38824698"
+ },
+ {
+  "city": "Italy",
+  "province": "Valle d'Aosta",
+  "lat": "45.73750286",
+  "long": "7.320149366"
+ },
+ {
+  "city": "Italy",
+  "province": "Veneto",
+  "lat": "45.43490485",
+  "long": "12.33845213"
+ }
+]

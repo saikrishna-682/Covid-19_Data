@@ -1,0 +1,506 @@
+[
+ {
+  "city": "Russia",
+  "province": "",
+  "lat": "61.5240",
+  "long": "105.3188"
+ },
+ {
+  "city": "Russia",
+  "province": "Adygea Republic",
+  "lat": "44.6939006",
+  "long": "40.1520421"
+ },
+ {
+  "city": "Russia",
+  "province": "Altai Krai",
+  "lat": "52.6932243",
+  "long": "82.69314240000001"
+ },
+ {
+  "city": "Russia",
+  "province": "Altai Republic",
+  "lat": "50.7114101",
+  "long": "86.8572186"
+ },
+ {
+  "city": "Russia",
+  "province": "Amur Oblast",
+  "lat": "52.8032368",
+  "long": "128.437295"
+ },
+ {
+  "city": "Russia",
+  "province": "Arkhangelsk Oblast",
+  "lat": "63.5589686",
+  "long": "43.1221646"
+ },
+ {
+  "city": "Russia",
+  "province": "Astrakhan Oblast",
+  "lat": "47.1878186",
+  "long": "47.608851"
+ },
+ {
+  "city": "Russia",
+  "province": "Bashkortostan Republic",
+  "lat": "54.8573563",
+  "long": "57.1439682"
+ },
+ {
+  "city": "Russia",
+  "province": "Belgorod Oblast",
+  "lat": "50.7080119",
+  "long": "37.5837615"
+ },
+ {
+  "city": "Russia",
+  "province": "Bryansk Oblast",
+  "lat": "52.8873315",
+  "long": "33.41585300000001"
+ },
+ {
+  "city": "Russia",
+  "province": "Buryatia Republic",
+  "lat": "52.7182426",
+  "long": "109.492143"
+ },
+ {
+  "city": "Russia",
+  "province": "Chechen Republic",
+  "lat": "43.39761470000001",
+  "long": "45.6985005"
+ },
+ {
+  "city": "Russia",
+  "province": "Chelyabinsk Oblast",
+  "lat": "54.4223954",
+  "long": "61.1865846"
+ },
+ {
+  "city": "Russia",
+  "province": "Chukotka Autonomous Okrug",
+  "lat": "66.0006475",
+  "long": "169.4900869"
+ },
+ {
+  "city": "Russia",
+  "province": "Chuvashia Republic",
+  "lat": "55.4259922",
+  "long": "47.0849429"
+ },
+ {
+  "city": "Russia",
+  "province": "Dagestan Republic",
+  "lat": "43.05749160000001",
+  "long": "47.1332224"
+ },
+ {
+  "city": "Russia",
+  "province": "Ingushetia Republic",
+  "lat": "43.11542075",
+  "long": "45.01713552"
+ },
+ {
+  "city": "Russia",
+  "province": "Irkutsk Oblast",
+  "lat": "56.6370122",
+  "long": "104.719221"
+ },
+ {
+  "city": "Russia",
+  "province": "Ivanovo Oblast",
+  "lat": "56.9167446",
+  "long": "41.43521370000001"
+ },
+ {
+  "city": "Russia",
+  "province": "Jewish Autonomous Okrug",
+  "lat": "48.57527615",
+  "long": "132.66307460000002"
+ },
+ {
+  "city": "Russia",
+  "province": "Kabardino-Balkarian Republic",
+  "lat": "43.4806048",
+  "long": "43.5978976"
+ },
+ {
+  "city": "Russia",
+  "province": "Kaliningrad Oblast",
+  "lat": "54.7293041",
+  "long": "21.1489473"
+ },
+ {
+  "city": "Russia",
+  "province": "Kalmykia Republic",
+  "lat": "46.2313018",
+  "long": "45.3275745"
+ },
+ {
+  "city": "Russia",
+  "province": "Kaluga Oblast",
+  "lat": "54.4382773",
+  "long": "35.5272854"
+ },
+ {
+  "city": "Russia",
+  "province": "Kamchatka Krai",
+  "lat": "57.1914882",
+  "long": "160.03838190000005"
+ },
+ {
+  "city": "Russia",
+  "province": "Karachay-Cherkess Republic",
+  "lat": "43.7368326",
+  "long": "41.7267991"
+ },
+ {
+  "city": "Russia",
+  "province": "Karelia Republic",
+  "lat": "62.61940309999999",
+  "long": "33.4920267"
+ },
+ {
+  "city": "Russia",
+  "province": "Kemerovo Oblast",
+  "lat": "54.53357809999999",
+  "long": "87.342861"
+ },
+ {
+  "city": "Russia",
+  "province": "Khabarovsk Krai",
+  "lat": "51.6312684",
+  "long": "136.121524"
+ },
+ {
+  "city": "Russia",
+  "province": "Khakassia Republic",
+  "lat": "53.72258845",
+  "long": "91.44293627"
+ },
+ {
+  "city": "Russia",
+  "province": "Khanty-Mansi Autonomous Okrug",
+  "lat": "61.0259025",
+  "long": "69.0982628"
+ },
+ {
+  "city": "Russia",
+  "province": "Kirov Oblast",
+  "lat": "57.9665589",
+  "long": "49.4074599"
+ },
+ {
+  "city": "Russia",
+  "province": "Komi Republic",
+  "lat": "63.9881421",
+  "long": "54.3326073"
+ },
+ {
+  "city": "Russia",
+  "province": "Kostroma Oblast",
+  "lat": "58.424756",
+  "long": "44.2533273"
+ },
+ {
+  "city": "Russia",
+  "province": "Krasnodar Krai",
+  "lat": "45.7684014",
+  "long": "39.0261044"
+ },
+ {
+  "city": "Russia",
+  "province": "Krasnoyarsk Krai",
+  "lat": "63.3233807",
+  "long": "97.0979974"
+ },
+ {
+  "city": "Russia",
+  "province": "Kurgan Oblast",
+  "lat": "55.7655302",
+  "long": "64.5632681"
+ },
+ {
+  "city": "Russia",
+  "province": "Kursk Oblast",
+  "lat": "51.6568453",
+  "long": "36.4852695"
+ },
+ {
+  "city": "Russia",
+  "province": "Leningrad Oblast",
+  "lat": "60.1853296",
+  "long": "32.3925325"
+ },
+ {
+  "city": "Russia",
+  "province": "Lipetsk Oblast",
+  "lat": "52.6935178",
+  "long": "39.1122664"
+ },
+ {
+  "city": "Russia",
+  "province": "Magadan Oblast",
+  "lat": "62.48858785",
+  "long": "153.9903764"
+ },
+ {
+  "city": "Russia",
+  "province": "Mari El Republic",
+  "lat": "56.5767504",
+  "long": "47.8817512"
+ },
+ {
+  "city": "Russia",
+  "province": "Mordovia Republic",
+  "lat": "54.4419829",
+  "long": "44.4661144"
+ },
+ {
+  "city": "Russia",
+  "province": "Moscow",
+  "lat": "55.7504461",
+  "long": "37.6174943"
+ },
+ {
+  "city": "Russia",
+  "province": "Moscow Oblast",
+  "lat": "55.50431579999999",
+  "long": "38.0353929"
+ },
+ {
+  "city": "Russia",
+  "province": "Murmansk Oblast",
+  "lat": "68.00004179999999",
+  "long": "33.9999151"
+ },
+ {
+  "city": "Russia",
+  "province": "Nenets Autonomous Okrug",
+  "lat": "68.27557185",
+  "long": "57.1686375"
+ },
+ {
+  "city": "Russia",
+  "province": "Nizhny Novgorod Oblast",
+  "lat": "55.47180329999999",
+  "long": "44.0911594"
+ },
+ {
+  "city": "Russia",
+  "province": "North Ossetia - Alania Republic",
+  "lat": "42.79336110000001",
+  "long": "44.6324493"
+ },
+ {
+  "city": "Russia",
+  "province": "Novgorod Oblast",
+  "lat": "58.2843833",
+  "long": "32.5169757"
+ },
+ {
+  "city": "Russia",
+  "province": "Novosibirsk Oblast",
+  "lat": "54.9720169",
+  "long": "79.48139240000002"
+ },
+ {
+  "city": "Russia",
+  "province": "Omsk Oblast",
+  "lat": "56.09352629999999",
+  "long": "73.5099936"
+ },
+ {
+  "city": "Russia",
+  "province": "Orel Oblast",
+  "lat": "52.96854329999999",
+  "long": "36.0692477"
+ },
+ {
+  "city": "Russia",
+  "province": "Orenburg Oblast",
+  "lat": "52.02692620000001",
+  "long": "54.7276647"
+ },
+ {
+  "city": "Russia",
+  "province": "Penza Oblast",
+  "lat": "53.1655415",
+  "long": "44.78791810000001"
+ },
+ {
+  "city": "Russia",
+  "province": "Perm Krai",
+  "lat": "58.5951603",
+  "long": "56.3159546"
+ },
+ {
+  "city": "Russia",
+  "province": "Primorsky Krai",
+  "lat": "45.0819456",
+  "long": "134.726645"
+ },
+ {
+  "city": "Russia",
+  "province": "Pskov Oblast",
+  "lat": "57.5358729",
+  "long": "28.8586826"
+ },
+ {
+  "city": "Russia",
+  "province": "Rostov Oblast",
+  "lat": "47.6222451",
+  "long": "40.7957942"
+ },
+ {
+  "city": "Russia",
+  "province": "Ryazan Oblast",
+  "lat": "54.42267320000001",
+  "long": "40.57052460000001"
+ },
+ {
+  "city": "Russia",
+  "province": "Saint Petersburg",
+  "lat": "59.9606739",
+  "long": "30.158655100000004"
+ },
+ {
+  "city": "Russia",
+  "province": "Sakha (Yakutiya) Republic",
+  "lat": "66.941626",
+  "long": "129.642371"
+ },
+ {
+  "city": "Russia",
+  "province": "Sakhalin Oblast",
+  "lat": "49.7219665",
+  "long": "143.448533"
+ },
+ {
+  "city": "Russia",
+  "province": "Samara Oblast",
+  "lat": "53.2128813",
+  "long": "50.8914633"
+ },
+ {
+  "city": "Russia",
+  "province": "Saratov Oblast",
+  "lat": "51.6520555",
+  "long": "46.86319520000001"
+ },
+ {
+  "city": "Russia",
+  "province": "Smolensk Oblast",
+  "lat": "55.03434960000001",
+  "long": "33.0192065"
+ },
+ {
+  "city": "Russia",
+  "province": "Stavropol Krai",
+  "lat": "44.86325770000001",
+  "long": "43.4406913"
+ },
+ {
+  "city": "Russia",
+  "province": "Sverdlovsk Oblast",
+  "lat": "58.6414755",
+  "long": "61.8021546"
+ },
+ {
+  "city": "Russia",
+  "province": "Tambov Oblast",
+  "lat": "52.9019574",
+  "long": "41.3578918"
+ },
+ {
+  "city": "Russia",
+  "province": "Tatarstan Republic",
+  "lat": "55.7648572",
+  "long": "52.43104273"
+ },
+ {
+  "city": "Russia",
+  "province": "Tomsk Oblast",
+  "lat": "58.6124279",
+  "long": "82.04753149999998"
+ },
+ {
+  "city": "Russia",
+  "province": "Tula Oblast",
+  "lat": "53.9570701",
+  "long": "37.3690909"
+ },
+ {
+  "city": "Russia",
+  "province": "Tver Oblast",
+  "lat": "57.1134475",
+  "long": "35.174442799999994"
+ },
+ {
+  "city": "Russia",
+  "province": "Tyumen Oblast",
+  "lat": "58.8206488",
+  "long": "70.36588370000001"
+ },
+ {
+  "city": "Russia",
+  "province": "Tyva Republic",
+  "lat": "51.4017149",
+  "long": "93.8582593"
+ },
+ {
+  "city": "Russia",
+  "province": "Udmurt Republic",
+  "lat": "57.1961165",
+  "long": "52.69598320000001"
+ },
+ {
+  "city": "Russia",
+  "province": "Ulyanovsk Oblast",
+  "lat": "54.1463177",
+  "long": "47.2324921"
+ },
+ {
+  "city": "Russia",
+  "province": "Vladimir Oblast",
+  "lat": "56.0503336",
+  "long": "40.6561633"
+ },
+ {
+  "city": "Russia",
+  "province": "Volgograd Oblast",
+  "lat": "49.6048339",
+  "long": "44.29035820000001"
+ },
+ {
+  "city": "Russia",
+  "province": "Vologda Oblast",
+  "lat": "60.0391461",
+  "long": "43.1215213"
+ },
+ {
+  "city": "Russia",
+  "province": "Voronezh Oblast",
+  "lat": "50.9800393",
+  "long": "40.15065070000001"
+ },
+ {
+  "city": "Russia",
+  "province": "Yamalo-Nenets Autonomous Okrug",
+  "lat": "67.1471631",
+  "long": "74.3415488"
+ },
+ {
+  "city": "Russia",
+  "province": "Yaroslavl Oblast",
+  "lat": "57.77819760000001",
+  "long": "39.0021095"
+ },
+ {
+  "city": "Russia",
+  "province": "Zabaykalsky Krai",
+  "lat": "52.248521",
+  "long": "115.956325"
+ }
+]

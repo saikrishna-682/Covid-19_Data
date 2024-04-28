@@ -1,0 +1,128 @@
+[
+ {
+  "city": "Spain",
+  "province": "",
+  "lat": "40.4637",
+  "long": "-3.7492"
+ },
+ {
+  "city": "Spain",
+  "province": "Andalusia",
+  "lat": "37.5443",
+  "long": "-4.7278"
+ },
+ {
+  "city": "Spain",
+  "province": "Aragon",
+  "lat": "41.5976",
+  "long": "-0.9057"
+ },
+ {
+  "city": "Spain",
+  "province": "Asturias",
+  "lat": "43.3614",
+  "long": "-5.8593"
+ },
+ {
+  "city": "Spain",
+  "province": "Baleares",
+  "lat": "39.710358",
+  "long": "2.995148"
+ },
+ {
+  "city": "Spain",
+  "province": "C. Valenciana",
+  "lat": "39.484",
+  "long": "-0.7533"
+ },
+ {
+  "city": "Spain",
+  "province": "Canarias",
+  "lat": "28.2916",
+  "long": "-16.6291"
+ },
+ {
+  "city": "Spain",
+  "province": "Cantabria",
+  "lat": "43.1828",
+  "long": "-3.9878"
+ },
+ {
+  "city": "Spain",
+  "province": "Castilla - La Mancha",
+  "lat": "39.2796",
+  "long": "-3.0977"
+ },
+ {
+  "city": "Spain",
+  "province": "Castilla y Leon",
+  "lat": "41.8357",
+  "long": "-4.3976"
+ },
+ {
+  "city": "Spain",
+  "province": "Catalonia",
+  "lat": "41.5912",
+  "long": "1.5209"
+ },
+ {
+  "city": "Spain",
+  "province": "Ceuta",
+  "lat": "35.8894",
+  "long": "-5.3213"
+ },
+ {
+  "city": "Spain",
+  "province": "Extremadura",
+  "lat": "39.4937",
+  "long": "-6.0679"
+ },
+ {
+  "city": "Spain",
+  "province": "Galicia",
+  "lat": "42.5751",
+  "long": "-8.1339"
+ },
+ {
+  "city": "Spain",
+  "province": "La Rioja",
+  "lat": "42.2871",
+  "long": "2.5396"
+ },
+ {
+  "city": "Spain",
+  "province": "Madrid",
+  "lat": "40.4168",
+  "long": "-3.7038"
+ },
+ {
+  "city": "Spain",
+  "province": "Melilla",
+  "lat": "35.2923",
+  "long": "-2.9381"
+ },
+ {
+  "city": "Spain",
+  "province": "Murcia",
+  "lat": "37.9922",
+  "long": "-1.1307"
+ },
+ {
+  "city": "Spain",
+  "province": "Navarra",
+  "lat": "42.6954",
+  "long": "-1.6761"
+ },
+ {
+  "city": "Spain",
+  "province": "Pais Vasco",
+  "lat": "42.9896",
+  "long": "-2.6189"
+ },
+ {
+  "city": "Spain",
+  "province": "Unknown",
+  "lat": null,
+  "long": null
+ }
+]

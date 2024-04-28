@@ -1,0 +1,74 @@
+[
+ {
+  "city": "Australia",
+  "province": "",
+  "lat": null,
+  "long": null
+ },
+ {
+  "city": "Australia",
+  "province": "Australian Capital Territory",
+  "lat": "-35.4735",
+  "long": "149.0124"
+ },
+ {
+  "city": "Australia",
+  "province": "External territories",
+  "lat": null,
+  "long": null
+ },
+ {
+  "city": "Australia",
+  "province": "From Diamond Princess",
+  "lat": "35.4437",
+  "long": "139.6380"
+ },
+ {
+  "city": "Australia",
+  "province": "Jervis Bay Territory",
+  "lat": null,
+  "long": null
+ },
+ {
+  "city": "Australia",
+  "province": "New South Wales",
+  "lat": "-33.8688",
+  "long": "151.2093"
+ },
+ {
+  "city": "Australia",
+  "province": "Northern Territory",
+  "lat": "-12.4634",
+  "long": "130.8456"
+ },
+ {
+  "city": "Australia",
+  "province": "Queensland",
+  "lat": "-28.0167",
+  "long": "153.4000"
+ },
+ {
+  "city": "Australia",
+  "province": "South Australia",
+  "lat": "-34.9285",
+  "long": "138.6007"
+ },
+ {
+  "city": "Australia",
+  "province": "Tasmania",
+  "lat": "-41.4545",
+  "long": "145.9707"
+ },
+ {
+  "city": "Australia",
+  "province": "Victoria",
+  "lat": "-37.8136",
+  "long": "144.9631"
+ },
+ {
+  "city": "Australia",
+  "province": "Western Australia",
+  "lat": "-31.9505",
+  "long": "115.8605"
+ }
+]

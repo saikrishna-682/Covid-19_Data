@@ -1,0 +1,110 @@
+[
+ {
+  "city": "Chile",
+  "province": "",
+  "lat": "-35.6751",
+  "long": "-71.5430"
+ },
+ {
+  "city": "Chile",
+  "province": "Antofagasta",
+  "lat": "-23.6509",
+  "long": "-70.3975"
+ },
+ {
+  "city": "Chile",
+  "province": "Araucania",
+  "lat": "-38.9489",
+  "long": "-72.3311"
+ },
+ {
+  "city": "Chile",
+  "province": "Arica y Parinacota",
+  "lat": "-18.594",
+  "long": "-69.4785"
+ },
+ {
+  "city": "Chile",
+  "province": "Atacama",
+  "lat": "-23.8634",
+  "long": "-69.1328"
+ },
+ {
+  "city": "Chile",
+  "province": "Aysen",
+  "lat": "-45.9864",
+  "long": "-73.7669"
+ },
+ {
+  "city": "Chile",
+  "province": "Biobio",
+  "lat": "-37.4464",
+  "long": "-72.1416"
+ },
+ {
+  "city": "Chile",
+  "province": "Coquimbo",
+  "lat": "-29.959",
+  "long": "-71.3389"
+ },
+ {
+  "city": "Chile",
+  "province": "Los Lagos",
+  "lat": "-41.9198",
+  "long": "-72.1416"
+ },
+ {
+  "city": "Chile",
+  "province": "Los Rios",
+  "lat": "-40.231",
+  "long": "-72.3311"
+ },
+ {
+  "city": "Chile",
+  "province": "Magallanes",
+  "lat": "-52.368",
+  "long": "-70.9863"
+ },
+ {
+  "city": "Chile",
+  "province": "Maule",
+  "lat": "-35.5183",
+  "long": "-71.6885"
+ },
+ {
+  "city": "Chile",
+  "province": "Metropolitana",
+  "lat": "-33.4376",
+  "long": "-70.6505"
+ },
+ {
+  "city": "Chile",
+  "province": "Nuble",
+  "lat": "-36.7226",
+  "long": "-71.7622"
+ },
+ {
+  "city": "Chile",
+  "province": "OHiggins",
+  "lat": "-48.4674",
+  "long": "-72.5592"
+ },
+ {
+  "city": "Chile",
+  "province": "Tarapaca",
+  "lat": "-19.9232",
+  "long": "-69.5132"
+ },
+ {
+  "city": "Chile",
+  "province": "Unknown",
+  "lat": null,
+  "long": null
+ },
+ {
+  "city": "Chile",
+  "province": "Valparaiso",
+  "lat": "-33.0472",
+  "long": "-71.6127"
+ }
+]

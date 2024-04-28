@@ -1,0 +1,26 @@
+[
+ {
+  "city": "Denmark",
+  "province": "",
+  "lat": "56.2639",
+  "long": "9.5018"
+ },
+ {
+  "city": "Denmark",
+  "province": "Denmark",
+  "lat": "56.2639",
+  "long": "9.5018"
+ },
+ {
+  "city": "Denmark",
+  "province": "Faroe Islands",
+  "lat": "61.8926",
+  "long": "-6.9118"
+ },
+ {
+  "city": "Denmark",
+  "province": "Greenland",
+  "lat": "71.7069",
+  "long": "-42.6043"
+ }
+]

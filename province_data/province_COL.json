@@ -1,0 +1,212 @@
+[
+ {
+  "city": "Colombia",
+  "province": "",
+  "lat": "4.5709",
+  "long": "-74.2973"
+ },
+ {
+  "city": "Colombia",
+  "province": "Amazonas",
+  "lat": "-1.4429",
+  "long": "-71.5724"
+ },
+ {
+  "city": "Colombia",
+  "province": "Antioquia",
+  "lat": "7.1986",
+  "long": "-75.3412"
+ },
+ {
+  "city": "Colombia",
+  "province": "Arauca",
+  "lat": "7.0762",
+  "long": "-70.7105"
+ },
+ {
+  "city": "Colombia",
+  "province": "Atlantico",
+  "lat": "10.6966",
+  "long": "-74.8741"
+ },
+ {
+  "city": "Colombia",
+  "province": "Bolivar",
+  "lat": "8.6704",
+  "long": "-74.03"
+ },
+ {
+  "city": "Colombia",
+  "province": "Boyaca",
+  "lat": "5.4545",
+  "long": "-73.362"
+ },
+ {
+  "city": "Colombia",
+  "province": "Caldas",
+  "lat": "5.2983",
+  "long": "-75.2479"
+ },
+ {
+  "city": "Colombia",
+  "province": "Capital District",
+  "lat": "4.711",
+  "long": "-74.0721"
+ },
+ {
+  "city": "Colombia",
+  "province": "Caqueta",
+  "lat": "0.8699",
+  "long": "-73.8419"
+ },
+ {
+  "city": "Colombia",
+  "province": "Casanare",
+  "lat": "5.7589",
+  "long": "-71.5724"
+ },
+ {
+  "city": "Colombia",
+  "province": "Cauca",
+  "lat": "2.705",
+  "long": "-76.82600000000002"
+ },
+ {
+  "city": "Colombia",
+  "province": "Cesar",
+  "lat": "9.3373",
+  "long": "-73.6536"
+ },
+ {
+  "city": "Colombia",
+  "province": "Choco",
+  "lat": "5.2528",
+  "long": "-76.82600000000002"
+ },
+ {
+  "city": "Colombia",
+  "province": "Cordoba",
+  "lat": "8.0493",
+  "long": "-75.574"
+ },
+ {
+  "city": "Colombia",
+  "province": "Cundinamarca",
+  "lat": "5.026",
+  "long": "-74.03"
+ },
+ {
+  "city": "Colombia",
+  "province": "Guainia",
+  "lat": "2.5854",
+  "long": "-68.5247"
+ },
+ {
+  "city": "Colombia",
+  "province": "Guaviare",
+  "lat": "1.0654",
+  "long": "-73.2603"
+ },
+ {
+  "city": "Colombia",
+  "province": "Huila",
+  "lat": "2.5359",
+  "long": "-75.5277"
+ },
+ {
+  "city": "Colombia",
+  "province": "La Guajira",
+  "lat": "11.3548",
+  "long": "-72.5205"
+ },
+ {
+  "city": "Colombia",
+  "province": "Magdalena",
+  "lat": "10.4113",
+  "long": "-74.4057"
+ },
+ {
+  "city": "Colombia",
+  "province": "Meta",
+  "lat": "3.272",
+  "long": "-73.0877"
+ },
+ {
+  "city": "Colombia",
+  "province": "Narino",
+  "lat": "1.2892",
+  "long": "-77.3579"
+ },
+ {
+  "city": "Colombia",
+  "province": "Norte de Santander",
+  "lat": "7.9463",
+  "long": "-72.8988"
+ },
+ {
+  "city": "Colombia",
+  "province": "Putumayo",
+  "lat": "0.436",
+  "long": "-75.5277"
+ },
+ {
+  "city": "Colombia",
+  "province": "Quindio",
+  "lat": "4.461",
+  "long": "-75.6674"
+ },
+ {
+  "city": "Colombia",
+  "province": "Risaralda",
+  "lat": "5.3158",
+  "long": "-75.9928"
+ },
+ {
+  "city": "Colombia",
+  "province": "San Andres y Providencia",
+  "lat": "12.5567",
+  "long": "-81.7185"
+ },
+ {
+  "city": "Colombia",
+  "province": "Santander",
+  "lat": "6.6437",
+  "long": "-73.6536"
+ },
+ {
+  "city": "Colombia",
+  "province": "Sucre",
+  "lat": "8.814",
+  "long": "-74.7233"
+ },
+ {
+  "city": "Colombia",
+  "province": "Tolima",
+  "lat": "4.0925",
+  "long": "-75.1545"
+ },
+ {
+  "city": "Colombia",
+  "province": "Unknown",
+  "lat": null,
+  "long": null
+ },
+ {
+  "city": "Colombia",
+  "province": "Valle del Cauca",
+  "lat": "3.8009",
+  "long": "-76.6413"
+ },
+ {
+  "city": "Colombia",
+  "province": "Vaupes",
+  "lat": "0.8554",
+  "long": "-70.812"
+ },
+ {
+  "city": "Colombia",
+  "province": "Vichada",
+  "lat": "4.4234",
+  "long": "-69.2878"
+ }
+]

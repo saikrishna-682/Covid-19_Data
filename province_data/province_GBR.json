@@ -1,0 +1,140 @@
+[
+ {
+  "city": "United Kingdom",
+  "province": "",
+  "lat": "55.0000",
+  "long": "-3.0000"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "Anguilla",
+  "lat": "18.2206",
+  "long": "-63.0686"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "Bermuda",
+  "lat": "32.3078",
+  "long": "-64.7505"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "British Virgin Islands",
+  "lat": "18.4207",
+  "long": "-64.64"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "Cayman Islands",
+  "lat": "19.3133",
+  "long": "-81.2546"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "Channel Islands",
+  "lat": "49.3723",
+  "long": "-2.3644"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "England",
+  "lat": "52.3555",
+  "long": "-1.1743"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "Falkland Islands (Islas Malvinas)",
+  "lat": "-51.7963",
+  "long": "-59.5236"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "Falkland Islands (Malvinas)",
+  "lat": "-51.7963",
+  "long": "-59.5236"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "Gibraltar",
+  "lat": "36.1408",
+  "long": "-5.3536"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "Guernsey",
+  "lat": "49.448196",
+  "long": "-2.58949"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "Isle of Man",
+  "lat": "54.2361",
+  "long": "-4.5481"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "Jersey",
+  "lat": "49.2138",
+  "long": "-2.1358"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "Montserrat",
+  "lat": "16.7425",
+  "long": "-62.1874"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "Northern Ireland",
+  "lat": "54.7877",
+  "long": "-6.4923"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "Pitcairn Islands",
+  "lat": "-24.3768",
+  "long": "-128.3242"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "Saint Helena, Ascension and Tristan da Cunha",
+  "lat": "-7.9467",
+  "long": "-14.3559"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "Scotland",
+  "lat": "56.4907",
+  "long": "-4.2026"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "Turks and Caicos Islands",
+  "lat": "21.69400000000001",
+  "long": "-71.7979"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "UK",
+  "lat": "55.3781",
+  "long": "-3.4360"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "United Kingdom",
+  "lat": "55.3781",
+  "long": "-3.4360"
+ },
+ {
+  "city": "United Kingdom",
+  "province": "Unknown",
+  "lat": null,
+  "long": null
+ },
+ {
+  "city": "United Kingdom",
+  "province": "Wales",
+  "lat": "52.1307",
+  "long": "-3.7837"
+ }
+]

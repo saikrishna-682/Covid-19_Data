@@ -1,0 +1,236 @@
+[
+ {
+  "city": "India",
+  "province": "",
+  "lat": "20.5937",
+  "long": "78.9629"
+ },
+ {
+  "city": "India",
+  "province": "Andaman and Nicobar Islands",
+  "lat": "11.225999",
+  "long": "92.968178"
+ },
+ {
+  "city": "India",
+  "province": "Andhra Pradesh",
+  "lat": "15.9129",
+  "long": "79.74"
+ },
+ {
+  "city": "India",
+  "province": "Arunachal Pradesh",
+  "lat": "27.768456",
+  "long": "96.384277"
+ },
+ {
+  "city": "India",
+  "province": "Assam",
+  "lat": "26.357149",
+  "long": "92.830441"
+ },
+ {
+  "city": "India",
+  "province": "Bihar",
+  "lat": "25.679658",
+  "long": "85.60484"
+ },
+ {
+  "city": "India",
+  "province": "Chandigarh",
+  "lat": "30.733839",
+  "long": "76.76827800000002"
+ },
+ {
+  "city": "India",
+  "province": "Chhattisgarh",
+  "lat": "21.264705",
+  "long": "82.035366"
+ },
+ {
+  "city": "India",
+  "province": "Dadar Nagar Haveli",
+  "lat": "20.194742",
+  "long": "73.080901"
+ },
+ {
+  "city": "India",
+  "province": "Dadra and Nagar Haveli and Daman and Diu",
+  "lat": "20.194742",
+  "long": "73.080901"
+ },
+ {
+  "city": "India",
+  "province": "Delhi",
+  "lat": "28.646519",
+  "long": "77.10898"
+ },
+ {
+  "city": "India",
+  "province": "Goa",
+  "lat": "15.359682",
+  "long": "74.057396"
+ },
+ {
+  "city": "India",
+  "province": "Gujarat",
+  "lat": "22.694884",
+  "long": "71.590923"
+ },
+ {
+  "city": "India",
+  "province": "Haryana",
+  "lat": "29.20004",
+  "long": "76.332824"
+ },
+ {
+  "city": "India",
+  "province": "Himachal Pradesh",
+  "lat": "31.927213",
+  "long": "77.233081"
+ },
+ {
+  "city": "India",
+  "province": "Jammu and Kashmir",
+  "lat": "33.75943",
+  "long": "76.612638"
+ },
+ {
+  "city": "India",
+  "province": "Jharkhand",
+  "lat": "23.654536",
+  "long": "85.557631"
+ },
+ {
+  "city": "India",
+  "province": "Karnataka",
+  "lat": "14.70518",
+  "long": "76.166436"
+ },
+ {
+  "city": "India",
+  "province": "Kerala",
+  "lat": "10.450898",
+  "long": "76.405749"
+ },
+ {
+  "city": "India",
+  "province": "Ladakh",
+  "lat": "34.1526",
+  "long": "77.5771"
+ },
+ {
+  "city": "India",
+  "province": "Lakshadweep",
+  "lat": "13.6999972",
+  "long": "72.18333259999999"
+ },
+ {
+  "city": "India",
+  "province": "Madhya Pradesh",
+  "lat": "23.541513",
+  "long": "78.289633"
+ },
+ {
+  "city": "India",
+  "province": "Maharashtra",
+  "lat": "19.449759",
+  "long": "76.108221"
+ },
+ {
+  "city": "India",
+  "province": "Manipur",
+  "lat": "24.738975",
+  "long": "93.882541"
+ },
+ {
+  "city": "India",
+  "province": "Meghalaya",
+  "lat": "25.536934",
+  "long": "91.278882"
+ },
+ {
+  "city": "India",
+  "province": "Mizoram",
+  "lat": "23.309381",
+  "long": "92.83822"
+ },
+ {
+  "city": "India",
+  "province": "Nagaland",
+  "lat": "26.06702",
+  "long": "94.470302"
+ },
+ {
+  "city": "India",
+  "province": "Odisha",
+  "lat": "20.505428",
+  "long": "84.418059"
+ },
+ {
+  "city": "India",
+  "province": "Puducherry",
+  "lat": "11.882658",
+  "long": "78.86498"
+ },
+ {
+  "city": "India",
+  "province": "Punjab",
+  "lat": "30.841465000000003",
+  "long": "75.40879"
+ },
+ {
+  "city": "India",
+  "province": "Rajasthan",
+  "lat": "26.583423",
+  "long": "73.847973"
+ },
+ {
+  "city": "India",
+  "province": "Sikkim",
+  "lat": "27.571671",
+  "long": "88.472712"
+ },
+ {
+  "city": "India",
+  "province": "Tamil Nadu",
+  "lat": "11.006091",
+  "long": "78.400624"
+ },
+ {
+  "city": "India",
+  "province": "Telangana",
+  "lat": "18.1124",
+  "long": "79.0193"
+ },
+ {
+  "city": "India",
+  "province": "Tripura",
+  "lat": "23.746783",
+  "long": "91.743565"
+ },
+ {
+  "city": "India",
+  "province": "Unknown",
+  "lat": null,
+  "long": null
+ },
+ {
+  "city": "India",
+  "province": "Uttar Pradesh",
+  "lat": "26.925425",
+  "long": "80.560982"
+ },
+ {
+  "city": "India",
+  "province": "Uttarakhand",
+  "lat": "30.156447",
+  "long": "79.197608"
+ },
+ {
+  "city": "India",
+  "province": "West Bengal",
+  "lat": "23.814082",
+  "long": "87.979803"
+ }
+]

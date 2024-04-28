@@ -1,0 +1,86 @@
+[
+ {
+  "city": "France",
+  "province": "",
+  "lat": "47.0000",
+  "long": "2.0000"
+ },
+ {
+  "city": "France",
+  "province": "Fench Guiana",
+  "lat": "4.0000",
+  "long": "-53.0000"
+ },
+ {
+  "city": "France",
+  "province": "France",
+  "lat": "46.2276",
+  "long": "2.2137"
+ },
+ {
+  "city": "France",
+  "province": "French Guiana",
+  "lat": "4.0000",
+  "long": "-53.0000"
+ },
+ {
+  "city": "France",
+  "province": "French Polynesia",
+  "lat": "-17.6797",
+  "long": "-149.4068"
+ },
+ {
+  "city": "France",
+  "province": "Guadeloupe",
+  "lat": "16.2500",
+  "long": "-61.5833"
+ },
+ {
+  "city": "France",
+  "province": "Martinique",
+  "lat": "14.6415",
+  "long": "-61.0242"
+ },
+ {
+  "city": "France",
+  "province": "Mayotte",
+  "lat": "-12.8431",
+  "long": "45.1383"
+ },
+ {
+  "city": "France",
+  "province": "New Caledonia",
+  "lat": "-20.9043",
+  "long": "165.6180"
+ },
+ {
+  "city": "France",
+  "province": "Reunion",
+  "lat": "-21.1351",
+  "long": "55.2471"
+ },
+ {
+  "city": "France",
+  "province": "Saint Barthelemy",
+  "lat": "17.9000",
+  "long": "-62.8333"
+ },
+ {
+  "city": "France",
+  "province": "Saint Pierre and Miquelon",
+  "lat": "46.8852",
+  "long": "-56.3159"
+ },
+ {
+  "city": "France",
+  "province": "St Martin",
+  "lat": "18.0708",
+  "long": "-63.0501"
+ },
+ {
+  "city": "France",
+  "province": "Wallis and Futuna",
+  "lat": "-14.2938",
+  "long": "-178.1165"
+ }
+]

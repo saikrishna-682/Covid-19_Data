@@ -1,0 +1,20 @@
+[
+ {
+  "city": "New Zealand",
+  "province": "",
+  "lat": "-40.9006",
+  "long": "174.8860"
+ },
+ {
+  "city": "New Zealand",
+  "province": "Cook Islands",
+  "lat": "-21.2367",
+  "long": "-159.7777"
+ },
+ {
+  "city": "New Zealand",
+  "province": "Niue",
+  "lat": "-19.0544",
+  "long": "-169.8672"
+ }
+]

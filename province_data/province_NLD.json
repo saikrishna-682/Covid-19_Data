@@ -1,0 +1,116 @@
+[
+ {
+  "city": "Netherlands",
+  "province": "",
+  "lat": "52.1326",
+  "long": "5.2913"
+ },
+ {
+  "city": "Netherlands",
+  "province": "Aruba",
+  "lat": "12.5211",
+  "long": "-69.9683"
+ },
+ {
+  "city": "Netherlands",
+  "province": "Bonaire, Sint Eustatius and Saba",
+  "lat": "12.1784",
+  "long": "-68.2385"
+ },
+ {
+  "city": "Netherlands",
+  "province": "Curacao",
+  "lat": "12.1696",
+  "long": "-68.9900"
+ },
+ {
+  "city": "Netherlands",
+  "province": "Drenthe",
+  "lat": "52.862485",
+  "long": "6.6184350000000025"
+ },
+ {
+  "city": "Netherlands",
+  "province": "Flevoland",
+  "lat": "52.550383",
+  "long": "5.515162"
+ },
+ {
+  "city": "Netherlands",
+  "province": "Friesland",
+  "lat": "53.087337",
+  "long": "5.7925"
+ },
+ {
+  "city": "Netherlands",
+  "province": "Gelderland",
+  "lat": "52.061738",
+  "long": "5.939114"
+ },
+ {
+  "city": "Netherlands",
+  "province": "Groningen",
+  "lat": "53.217921999999994",
+  "long": "6.741514"
+ },
+ {
+  "city": "Netherlands",
+  "province": "Limburg",
+  "lat": "51.209227",
+  "long": "5.93387"
+ },
+ {
+  "city": "Netherlands",
+  "province": "Netherlands",
+  "lat": "52.1326",
+  "long": "5.2913"
+ },
+ {
+  "city": "Netherlands",
+  "province": "Noord-Brabant",
+  "lat": "51.561174",
+  "long": "5.1849419999999995"
+ },
+ {
+  "city": "Netherlands",
+  "province": "Noord-Holland",
+  "lat": "52.60090600000001",
+  "long": "4.9186879999999995"
+ },
+ {
+  "city": "Netherlands",
+  "province": "Overijssel",
+  "lat": "52.444557999999994",
+  "long": "6.441722"
+ },
+ {
+  "city": "Netherlands",
+  "province": "Sint Maarten",
+  "lat": "18.0425",
+  "long": "-63.0548"
+ },
+ {
+  "city": "Netherlands",
+  "province": "Unknown",
+  "lat": null,
+  "long": null
+ },
+ {
+  "city": "Netherlands",
+  "province": "Utrecht",
+  "lat": "52.084251",
+  "long": "5.163824"
+ },
+ {
+  "city": "Netherlands",
+  "province": "Zeeland",
+  "lat": "51.47936",
+  "long": "3.8615589999999997"
+ },
+ {
+  "city": "Netherlands",
+  "province": "Zuid-Holland",
+  "lat": "51.937835",
+  "long": "4.462114"
+ }
+]

@@ -1,0 +1,80 @@
+[
+ {
+  "city": "Belgium",
+  "province": "",
+  "lat": "50.5039",
+  "long": "4.4699"
+ },
+ {
+  "city": "Belgium",
+  "province": "Antwerp",
+  "lat": "51.2195",
+  "long": "4.4024"
+ },
+ {
+  "city": "Belgium",
+  "province": "Brussels",
+  "lat": "50.8503",
+  "long": "4.3517"
+ },
+ {
+  "city": "Belgium",
+  "province": "East Flanders",
+  "lat": "51.0362",
+  "long": "3.7373"
+ },
+ {
+  "city": "Belgium",
+  "province": "Flemish Brabant",
+  "lat": "50.9167",
+  "long": "4.5833"
+ },
+ {
+  "city": "Belgium",
+  "province": "Hainaut",
+  "lat": "50.5257",
+  "long": "4.0621"
+ },
+ {
+  "city": "Belgium",
+  "province": "Liege",
+  "lat": "50.4496",
+  "long": "5.8492"
+ },
+ {
+  "city": "Belgium",
+  "province": "Limburg",
+  "lat": "50.9739",
+  "long": "5.3420000000000005"
+ },
+ {
+  "city": "Belgium",
+  "province": "Luxembourg",
+  "lat": "50.0547",
+  "long": "5.4677"
+ },
+ {
+  "city": "Belgium",
+  "province": "Namur",
+  "lat": "50.331",
+  "long": "4.8221"
+ },
+ {
+  "city": "Belgium",
+  "province": "Unknown",
+  "lat": null,
+  "long": null
+ },
+ {
+  "city": "Belgium",
+  "province": "Walloon Brabant",
+  "lat": "50.4",
+  "long": "4.35"
+ },
+ {
+  "city": "Belgium",
+  "province": "West Flanders",
+  "lat": "51.0536",
+  "long": "3.1458"
+ }
+]

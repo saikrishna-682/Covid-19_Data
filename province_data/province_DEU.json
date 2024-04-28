@@ -1,0 +1,116 @@
+[
+ {
+  "city": "Germany",
+  "province": "",
+  "lat": "51.1657",
+  "long": "10.4515"
+ },
+ {
+  "city": "Germany",
+  "province": "Baden-Wurttemberg",
+  "lat": "48.6616",
+  "long": "9.3501"
+ },
+ {
+  "city": "Germany",
+  "province": "Bavaria",
+  "lat": null,
+  "long": null
+ },
+ {
+  "city": "Germany",
+  "province": "Bayern",
+  "lat": "48.7904",
+  "long": "11.4979"
+ },
+ {
+  "city": "Germany",
+  "province": "Berlin",
+  "lat": "52.52",
+  "long": "13.405"
+ },
+ {
+  "city": "Germany",
+  "province": "Brandenburg",
+  "lat": "52.4125",
+  "long": "12.5316"
+ },
+ {
+  "city": "Germany",
+  "province": "Bremen",
+  "lat": "53.0793",
+  "long": "8.8017"
+ },
+ {
+  "city": "Germany",
+  "province": "Hamburg",
+  "lat": "53.5511",
+  "long": "9.9937"
+ },
+ {
+  "city": "Germany",
+  "province": "Hessen",
+  "lat": "50.6521",
+  "long": "9.1624"
+ },
+ {
+  "city": "Germany",
+  "province": "Mecklenburg-Vorpommern",
+  "lat": "53.6127",
+  "long": "12.4296"
+ },
+ {
+  "city": "Germany",
+  "province": "Niedersachsen",
+  "lat": "52.6367",
+  "long": "9.8451"
+ },
+ {
+  "city": "Germany",
+  "province": "Nordrhein-Westfalen",
+  "lat": "51.4332",
+  "long": "7.6616"
+ },
+ {
+  "city": "Germany",
+  "province": "Rheinland-Pfalz",
+  "lat": "50.1183",
+  "long": "7.309"
+ },
+ {
+  "city": "Germany",
+  "province": "Saarland",
+  "lat": "49.3964",
+  "long": "7.023"
+ },
+ {
+  "city": "Germany",
+  "province": "Sachsen",
+  "lat": "51.1045",
+  "long": "13.2017"
+ },
+ {
+  "city": "Germany",
+  "province": "Sachsen-Anhalt",
+  "lat": "51.9503",
+  "long": "11.6923"
+ },
+ {
+  "city": "Germany",
+  "province": "Schleswig-Holstein",
+  "lat": "54.2194",
+  "long": "9.6961"
+ },
+ {
+  "city": "Germany",
+  "province": "Thuringen",
+  "lat": "51.011",
+  "long": "10.8453"
+ },
+ {
+  "city": "Germany",
+  "province": "Unknown",
+  "lat": null,
+  "long": null
+ }
+]

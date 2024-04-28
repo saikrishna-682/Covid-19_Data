@@ -1,0 +1,134 @@
+[
+ {
+  "city": "Canada",
+  "province": " Montreal, QC",
+  "lat": "45.5017",
+  "long": "-73.5673"
+ },
+ {
+  "city": "Canada",
+  "province": "Alberta",
+  "lat": "53.9333",
+  "long": "-116.5765"
+ },
+ {
+  "city": "Canada",
+  "province": "British Columbia",
+  "lat": "53.7267",
+  "long": "-127.6476"
+ },
+ {
+  "city": "Canada",
+  "province": "Calgary, Alberta",
+  "lat": "51.0447",
+  "long": "-114.0719"
+ },
+ {
+  "city": "Canada",
+  "province": "Diamond Princess",
+  "lat": "0.0",
+  "long": "0.0"
+ },
+ {
+  "city": "Canada",
+  "province": "Edmonton, Alberta",
+  "lat": "53.5461",
+  "long": "-113.4938"
+ },
+ {
+  "city": "Canada",
+  "province": "Grand Princess",
+  "lat": "37.6489",
+  "long": "-122.6655"
+ },
+ {
+  "city": "Canada",
+  "province": "London, ON",
+  "lat": "42.9849",
+  "long": "-81.2453"
+ },
+ {
+  "city": "Canada",
+  "province": "Manitoba",
+  "lat": "53.7609",
+  "long": "-98.8139"
+ },
+ {
+  "city": "Canada",
+  "province": "New Brunswick",
+  "lat": "46.5653",
+  "long": "-66.4619"
+ },
+ {
+  "city": "Canada",
+  "province": "Newfoundland and Labrador",
+  "lat": "53.1355",
+  "long": "-57.6604"
+ },
+ {
+  "city": "Canada",
+  "province": "Northwest Territories",
+  "lat": "64.8255",
+  "long": "-124.8457"
+ },
+ {
+  "city": "Canada",
+  "province": "Nova Scotia",
+  "lat": "44.6820",
+  "long": "-63.7443"
+ },
+ {
+  "city": "Canada",
+  "province": "Nunavut",
+  "lat": "70.2998",
+  "long": "-83.1076"
+ },
+ {
+  "city": "Canada",
+  "province": "Ontario",
+  "lat": "51.2538",
+  "long": "-85.3232"
+ },
+ {
+  "city": "Canada",
+  "province": "Prince Edward Island",
+  "lat": "46.5107",
+  "long": "-63.4168"
+ },
+ {
+  "city": "Canada",
+  "province": "Quebec",
+  "lat": "52.9399",
+  "long": "-73.5491"
+ },
+ {
+  "city": "Canada",
+  "province": "Recovered",
+  "lat": "0.0",
+  "long": "0.0"
+ },
+ {
+  "city": "Canada",
+  "province": "Repatriated Travellers",
+  "lat": null,
+  "long": null
+ },
+ {
+  "city": "Canada",
+  "province": "Saskatchewan",
+  "lat": "52.9399",
+  "long": "-106.4509"
+ },
+ {
+  "city": "Canada",
+  "province": "Toronto, ON",
+  "lat": "43.6532",
+  "long": "-79.3832"
+ },
+ {
+  "city": "Canada",
+  "province": "Yukon",
+  "lat": "64.2823",
+  "long": "-135.0"
+ }
+]

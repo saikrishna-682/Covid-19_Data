@@ -1,0 +1,134 @@
+[
+ {
+  "city": "Sweden",
+  "province": "",
+  "lat": "60.1282",
+  "long": "18.6435"
+ },
+ {
+  "city": "Sweden",
+  "province": "Blekinge",
+  "lat": "56.2784",
+  "long": "15.017999999999999"
+ },
+ {
+  "city": "Sweden",
+  "province": "Dalarna",
+  "lat": "61.0917",
+  "long": "14.6664"
+ },
+ {
+  "city": "Sweden",
+  "province": "Gavleborg",
+  "lat": "61.3012",
+  "long": "16.1534"
+ },
+ {
+  "city": "Sweden",
+  "province": "Gotland",
+  "lat": "57.4684",
+  "long": "18.4867"
+ },
+ {
+  "city": "Sweden",
+  "province": "Halland",
+  "lat": "56.8967",
+  "long": "12.8034"
+ },
+ {
+  "city": "Sweden",
+  "province": "Jamtland Harjedalen",
+  "lat": "63.1712",
+  "long": "14.9592"
+ },
+ {
+  "city": "Sweden",
+  "province": "Jonkoping",
+  "lat": "57.3708",
+  "long": "14.3439"
+ },
+ {
+  "city": "Sweden",
+  "province": "Kalmar",
+  "lat": "57.235",
+  "long": "16.1849"
+ },
+ {
+  "city": "Sweden",
+  "province": "Kronoberg",
+  "lat": "56.7183",
+  "long": "14.4115"
+ },
+ {
+  "city": "Sweden",
+  "province": "Norrbotten",
+  "lat": "66.8309",
+  "long": "20.3992"
+ },
+ {
+  "city": "Sweden",
+  "province": "Orebro",
+  "lat": "59.535",
+  "long": "15.0066"
+ },
+ {
+  "city": "Sweden",
+  "province": "Ostergotland",
+  "lat": "58.3454",
+  "long": "15.5198"
+ },
+ {
+  "city": "Sweden",
+  "province": "Skane",
+  "lat": "55.9903",
+  "long": "13.5958"
+ },
+ {
+  "city": "Sweden",
+  "province": "Sormland",
+  "lat": "59.0336",
+  "long": "16.7519"
+ },
+ {
+  "city": "Sweden",
+  "province": "Stockholm",
+  "lat": "59.6025",
+  "long": "18.1384"
+ },
+ {
+  "city": "Sweden",
+  "province": "Uppsala",
+  "lat": "60.0092",
+  "long": "17.2715"
+ },
+ {
+  "city": "Sweden",
+  "province": "Varmland",
+  "lat": "59.7294",
+  "long": "13.2354"
+ },
+ {
+  "city": "Sweden",
+  "province": "Vasterbotten",
+  "lat": "65.3337",
+  "long": "16.5162"
+ },
+ {
+  "city": "Sweden",
+  "province": "Vasternorrland",
+  "lat": "63.4276",
+  "long": "17.7292"
+ },
+ {
+  "city": "Sweden",
+  "province": "Vastmanland",
+  "lat": "59.6714",
+  "long": "16.2159"
+ },
+ {
+  "city": "Sweden",
+  "province": "Vastra Gotaland",
+  "lat": "58.2528",
+  "long": "13.0596"
+ }
+]

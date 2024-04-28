@@ -1,0 +1,176 @@
+[
+ {
+  "city": "Brazil",
+  "province": "",
+  "lat": "-14.2350",
+  "long": "-51.9253"
+ },
+ {
+  "city": "Brazil",
+  "province": "Acre",
+  "lat": "-9.0238",
+  "long": "-70.812"
+ },
+ {
+  "city": "Brazil",
+  "province": "Alagoas",
+  "lat": "-9.5713",
+  "long": "-36.782"
+ },
+ {
+  "city": "Brazil",
+  "province": "Amapa",
+  "lat": "0.902",
+  "long": "-52.003"
+ },
+ {
+  "city": "Brazil",
+  "province": "Amazonas",
+  "lat": "-3.4168",
+  "long": "-65.8561"
+ },
+ {
+  "city": "Brazil",
+  "province": "Bahia",
+  "lat": "-12.5797",
+  "long": "-41.7007"
+ },
+ {
+  "city": "Brazil",
+  "province": "Ceara",
+  "lat": "-5.4984",
+  "long": "-39.3206"
+ },
+ {
+  "city": "Brazil",
+  "province": "Distrito Federal",
+  "lat": "-15.7998",
+  "long": "-47.8645"
+ },
+ {
+  "city": "Brazil",
+  "province": "Espirito Santo",
+  "lat": "-19.1834",
+  "long": "-40.3089"
+ },
+ {
+  "city": "Brazil",
+  "province": "Goias",
+  "lat": "-15.827",
+  "long": "-49.8362"
+ },
+ {
+  "city": "Brazil",
+  "province": "Maranhao",
+  "lat": "-4.9609",
+  "long": "-45.2744"
+ },
+ {
+  "city": "Brazil",
+  "province": "Mato Grosso",
+  "lat": "-12.6819",
+  "long": "-56.9211"
+ },
+ {
+  "city": "Brazil",
+  "province": "Mato Grosso do Sul",
+  "lat": "-20.7722",
+  "long": "-54.7852"
+ },
+ {
+  "city": "Brazil",
+  "province": "Minas Gerais",
+  "lat": "-18.5122",
+  "long": "-44.555"
+ },
+ {
+  "city": "Brazil",
+  "province": "Para",
+  "lat": "-1.9981",
+  "long": "-54.9306"
+ },
+ {
+  "city": "Brazil",
+  "province": "Paraiba",
+  "lat": "-7.24",
+  "long": "-36.782"
+ },
+ {
+  "city": "Brazil",
+  "province": "Parana",
+  "lat": "-25.2521",
+  "long": "-52.0215"
+ },
+ {
+  "city": "Brazil",
+  "province": "Pernambuco",
+  "lat": "-8.8137",
+  "long": "-36.9541"
+ },
+ {
+  "city": "Brazil",
+  "province": "Piaui",
+  "lat": "-7.7183",
+  "long": "-42.7289"
+ },
+ {
+  "city": "Brazil",
+  "province": "Rio de Janeiro",
+  "lat": "-22.9068",
+  "long": "-43.1729"
+ },
+ {
+  "city": "Brazil",
+  "province": "Rio Grande do Norte",
+  "lat": "-5.4026",
+  "long": "-36.9541"
+ },
+ {
+  "city": "Brazil",
+  "province": "Rio Grande do Sul",
+  "lat": "-30.0346",
+  "long": "-51.2177"
+ },
+ {
+  "city": "Brazil",
+  "province": "Rondonia",
+  "lat": "-11.5057",
+  "long": "-63.5806"
+ },
+ {
+  "city": "Brazil",
+  "province": "Roraima",
+  "lat": "-2.7376",
+  "long": "-62.0751"
+ },
+ {
+  "city": "Brazil",
+  "province": "Santa Catarina",
+  "lat": "-27.2423",
+  "long": "-50.2189"
+ },
+ {
+  "city": "Brazil",
+  "province": "Sao Paulo",
+  "lat": "-23.5505",
+  "long": "-46.6333"
+ },
+ {
+  "city": "Brazil",
+  "province": "Sergipe",
+  "lat": "-10.5741",
+  "long": "-37.3857"
+ },
+ {
+  "city": "Brazil",
+  "province": "Tocantins",
+  "lat": "-10.1753",
+  "long": "-48.2982"
+ },
+ {
+  "city": "Brazil",
+  "province": "Unknown",
+  "lat": null,
+  "long": null
+ }
+]
